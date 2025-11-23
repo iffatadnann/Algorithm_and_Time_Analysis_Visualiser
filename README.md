@@ -1,4 +1,3 @@
-````markdown
 # Algorithm and Time Analysis Visualizer
 
 A desktop GUI tool built with Python and Tkinter that lets you **visualize classic sorting and searching algorithms** step-by-step, and **see their time performance** on different input sizes.
@@ -52,9 +51,9 @@ Each has:
 
 ## 🏗 Project Structure
 
-- `main.py` – Tkinter GUI app (`AlgoVisualizer`), drawing, animation loop, time graph logic :contentReference[oaicite:3]{index=3}  
-- `sorting.py` – Sorting algorithms (visual generators + pure functions) :contentReference[oaicite:4]{index=4}  
-- `searching.py` – Searching algorithms (visual generators + pure functions) :contentReference[oaicite:5]{index=5}  
+- `main.py` – Tkinter GUI app (`AlgoVisualizer`), drawing, animation loop, time graph logic 
+- `sorting.py` – Sorting algorithms (visual generators + pure functions)
+- `searching.py` – Searching algorithms (visual generators + pure functions) 
 
 ---
 
@@ -66,9 +65,9 @@ Each has:
 
 Install Matplotlib (if not already installed):
 
-```bash
+
 pip install matplotlib
-````
+
 
 ---
 
@@ -188,15 +187,10 @@ To add a new algorithm:
 
 ---
 
-## 📜 License
-
-Add your preferred license information here (e.g., MIT, GPL, etc.).
-
----
-
 ## 🙌 Credits
 
 Created as an educational tool to **see algorithms in action** and to **connect theory (Big-O) with real empirical timing.**
+
 
 ```
 ```
