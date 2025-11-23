@@ -194,9 +194,6 @@ To add a new algorithm:
 4. The new algorithm will automatically appear in the algorithm dropdown for the relevant mode.
 
 ---
-## 📜 License
-This project is licensed under the **MIT License**.  
-See the `LICENSE` file for more details.
 
 ## 🙌 Credits
 - Developed by **Iffat Adnan**, **Aasia Asadullah**, **Alizeh Soomro**
