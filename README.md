@@ -4,6 +4,14 @@ A desktop GUI tool built with Python and Tkinter that lets you **visualize class
 
 ---
 
+## 📸 Preview
+<img width="1186" height="909" alt="image" src="https://github.com/user-attachments/assets/cc0475c7-ddb3-4fbe-8e76-7650f44c10df" />
+<p align="center">
+  <img src="path/to/screenshot.png" width="700"/>
+</p>
+
+---
+
 ## ✨ Features
 
 - Interactive **visualization** of:
@@ -12,7 +20,7 @@ A desktop GUI tool built with Python and Tkinter that lets you **visualize class
 - **Time analysis graph** (input size vs running time) using Matplotlib
 - Adjustable **animation speed**
 - Automatic **random data generation**
-- Clean, colorful UI themed around comparisons, swaps, and completion states :contentReference[oaicite:0]{index=0}  
+- Clean, colorful UI themed around comparisons, swaps, and completion states 
 
 ---
 
@@ -186,11 +194,13 @@ To add a new algorithm:
 4. The new algorithm will automatically appear in the algorithm dropdown for the relevant mode.
 
 ---
+## 📜 License
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file for more details.
 
 ## 🙌 Credits
-
-Created as an educational tool to **see algorithms in action** and to **connect theory (Big-O) with real empirical timing.**
-
-
+- Developed by **Iffat Adnan**, **Aasia Asadullah**, **Alizeh Soomro**
+- Sorting & searching algorithm animations implemented from scratch
+- Inspired by online algorithm visualizers such as VisuAlgo
 ```
 ```
